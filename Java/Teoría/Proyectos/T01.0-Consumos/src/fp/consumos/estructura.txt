@@ -1,0 +1,6 @@
+fp.Consumos
+
+Consumo.java (Clase Base)
+EstadisticasConsumo.java (Contenedora: contiene la colección de instancias de objetos de la clase base)
+FactoriaConsumos.java (Lectura de datos)
+TipoEdificio.java (Enumerado)
